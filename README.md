@@ -43,7 +43,7 @@ the data warehouse, and running  check on the data as a final step
 
 ### 2. Interact programatically with AWS services
 
-1. In the Airflow UI create three new connections:
+1. In the Airflow UI create two new connections:
 	1. aws_credentials - using AWS IAM credentials and Amazon Web Services connection type
 	2. redshift = using the details of the AWS Redshift cluster for the dev schema
 
