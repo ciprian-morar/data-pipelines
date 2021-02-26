@@ -37,6 +37,8 @@ the data warehouse, and running  check on the data as a final step
 
 ### A helper class for the SQL transformations
 
+## Run the scripts
+
 ### 1.Create AWS Reshift Cluster
 1. Create a new AWS redshift Cluster using AWS console.
 2. Allow instances and devices outside the VPC to connect to your database through the cluster endpoint.
