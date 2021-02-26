@@ -20,7 +20,7 @@ the data warehouse, and running  check on the data as a final step
 - Song data: s3://udacity-dend/song_data
 - Log data: s3://udacity-dend/log_data
 
-### The project template package contains three major components for the project:
+## The project template package contains three major components for the project:
 
 1. The main dag file - udac_example_dag
 2. The subdag  get_s3_to_redshift_dag; The purpose of this subdag is to keep in the same place and reuse the code 
